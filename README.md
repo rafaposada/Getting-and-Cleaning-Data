@@ -2,7 +2,7 @@
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 
 # Summary
-This readme file is meant to explain the analysis files according to the assignment instructions.  
+This readme file is meant to explain the analysis files according to the assignment instructions and to describe how the script called run_analysis.R works.  
 
 # Analysis files included
 
@@ -11,7 +11,7 @@ This readme file is meant to explain the analysis files according to the assignm
 3. CodeBook.md: Describes the variables, the data, and any transformations performed to clean up the data.
 4. run_analysis.R: R-Code used to create a tidy version of the data.
 
-# Steps followed for the assignment
+# Steps followed for the assignment and description of what the script does.
 0. Download untidy data sets to computer and read each data set on R 
 1. Merge the training and the test sets to create one data set
 2. Extract only the measurements on the mean and standard deviation for each measurement.
